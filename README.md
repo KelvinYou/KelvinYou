@@ -4,7 +4,7 @@
 - :link: Linkedln : <a href="https://www.linkedin.com/in/kelvin-you-a29644198/" target="_blank">https://www.linkedin.com/in/kelvin-you-a29644198/</a>
 - :e-mail: Email : <a href="mailto:kelvinyke-wm19@student.tarc.edu.my" target="_blank">kelvinyke-wm19@student.tarc.edu.my</a> 
 
-<a href=https://github.com/KelvinYou/KelvinYou">
+<a href="https://github.com/KelvinYou/KelvinYou">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=KelvinYou&count_private=true&show_icons=true&theme=dark&hide=issues" />
 </a>
 
