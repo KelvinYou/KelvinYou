@@ -2,7 +2,7 @@
 
 - 🌱 I'm currently studying Software Engineering (RSF) at <a href="https://www.tarc.edu.my/" target="_blank">Tunku Abdul Rahman University of Management and Technology<a/>.
 - :link: Linkedln : <a href="https://www.linkedin.com/in/kelvin-you-a29644198/" target="_blank">https://www.linkedin.com/in/kelvin-you-a29644198/</a>
-- :e-mail: Email : <a href="mailto:kelvinyke-wm19@student.tarc.edu.my" target="_blank">kelvinyke-wm19@student.tarc.edu.my</a> 
+- :e-mail: Email : <a href="mailto:ykekelvin0220@gmail.com" target="_blank">ykekelvin0220@gmail.com</a> 
 
 
   
@@ -11,11 +11,10 @@
 <a href="https://github.com/KelvinYou/KelvinYou">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=KelvinYou&count_private=true&show_icons=true&theme=dark&hide=issues" />
 </a>
-<center>
-  <p></p>
-    <img  src="https://github-readme-streak-stats.herokuapp.com/?user=KelvinYou&theme=dark&hide_border=false"   />
-  <p></p>
-</center>
+
+<p></p>
+  <img  src="https://github-readme-streak-stats.herokuapp.com/?user=KelvinYou&theme=dark&hide_border=false"   />
+<p></p>
   
 <a href="#">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KelvinYou&layout=compact&theme=dark&langs_count=10" />
