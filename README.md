@@ -11,14 +11,15 @@
 <a href="https://github.com/KelvinYou/KelvinYou">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=KelvinYou&count_private=true&show_icons=true&theme=dark&hide=issues" />
 </a>
-
+<center>
   <p></p>
-  <img  src="https://github-readme-streak-stats.herokuapp.com/?user=KelvinYou&theme=dark&hide_border=false"   />
+    <img  src="https://github-readme-streak-stats.herokuapp.com/?user=KelvinYou&theme=dark&hide_border=false"   />
   <p></p>
+</center>
+  
 <a href="#">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KelvinYou&layout=compact&theme=dark&langs_count=10" />
 </a>
-test
 <!--
 **KelvinYou/KelvinYou** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
