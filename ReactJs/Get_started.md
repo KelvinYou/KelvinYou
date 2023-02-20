@@ -12,6 +12,10 @@ npm start
 ```
 [Create React App Reference](https://reactjs.org/docs/create-a-new-react-app.html)
 
+```
+npx create-react-app my-app --template typescript
+```
+[Create React App Typescript Reference](https://create-react-app.dev/docs/adding-typescript/)
 
 # Step 2:
 Components
