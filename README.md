@@ -1,8 +1,9 @@
 <h1 align="center">Hi 👋I am Kelvin You</h1>
 <h3 align="center">I am a Software Engineering student from Tunku Abdul Rahman University of Management Technology (TARUMT)</h3>
 <br/>
-<p align="left"><img src="https://skillicons.dev/icons?i=ts,js,flutter,python,firebase,dart,spring,postgres,git,github,java,solidity,android&perline=16" alt="Tech Stack" /> </p>
+<p align="center"><img src="https://skillicons.dev/icons?i=ts,js,flutter,python,firebase,dart,spring,postgres,git,github,java,solidity,android&perline=16" alt="Tech Stack" /> </p>
 
+- Portfolio : <a href="https://kelvinyou.vercel.app/" target="_blank">Portfolio | Kelvin You</a>
 - Linkedln : <a href="https://www.linkedin.com/in/kelvin-you-a29644198/" target="_blank">https://www.linkedin.com/in/kelvin-you-a29644198/</a>
 - Email : <a href="mailto:ykekelvin0220@gmail.com" target="_blank">ykekelvin0220@gmail.com</a> 
 - Instagram : <a href="https://www.instagram.com/kelvinyou0220/" target="_blank">@kelvinyou0220</a> 
