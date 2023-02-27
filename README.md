@@ -1,33 +1,18 @@
-### Hi there 👋 I’m Kelvin You
+## Hi Everyone 👋 I am Kelvin You from Selangor, Malaysia.
 
-- 🌱 I'm currently studying Software Engineering (RSF) at <a href="https://www.tarc.edu.my/" target="_blank">Tunku Abdul Rahman University of Management and Technology<a/>.
-- :link: Linkedln : <a href="https://www.linkedin.com/in/kelvin-you-a29644198/" target="_blank">https://www.linkedin.com/in/kelvin-you-a29644198/</a>
-- :e-mail: Email : <a href="mailto:ykekelvin0220@gmail.com" target="_blank">ykekelvin0220@gmail.com</a> 
+### I am a Software Engineering student from Tunku Abdul Rahman University of Management Technology (TARUMT)
+<p align="left"><img src="https://skillicons.dev/icons?i=ts,js,flutter,python,firebase,dart,spring,postgres,git,github,java,solidity,android&perline=16" alt="Tech Stack" /> </p>
 
+- Linkedln : <a href="https://www.linkedin.com/in/kelvin-you-a29644198/" target="_blank">https://www.linkedin.com/in/kelvin-you-a29644198/</a>
+- Email : <a href="mailto:ykekelvin0220@gmail.com" target="_blank">ykekelvin0220@gmail.com</a> 
+- Instagram : <a href="https://www.instagram.com/kelvinyou0220/" target="_blank">@kelvinyou0220</a> 
 <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.15.3/css/all.css" crossorigin="anonymous">
 
-<div style="text-align: center; padding: 20px 0">
-  <a href="https://api.whatsapp.com/send?phone=60183732752" target="_blank" style="margin-right: 10px;">
-    <i class="fab fa-whatsapp fa-2x" style="color: #25D366; vertical-align: middle;"></i>
-    <span style="font-size: 16px; font-weight: bold; margin-left: 5px;">WhatsApp</span>
-  </a>
-  <a href="https://www.instagram.com/kelvinyou0220/" target="_blank" style="margin-right: 10px;">
-    <i class="fab fa-instagram fa-2x" style="color: #E1306C; vertical-align: middle;"></i>
-    <span style="font-size: 16px; font-weight: bold; margin-left: 5px;">Instagram</span>
-  </a>
-  <a href="https://www.linkedin.com/in/kelvin-you-a29644198/" target="_blank" style="margin-right: 10px;">
-    <i class="fab fa-linkedin fa-2x" style="color: #1877F2; vertical-align: middle;"></i>
-    <span style="
-      font-size: 16px; 
-      font-weight: bold; 
-      margin-left: 5px;
-    ">
-    Linkedin
-    </span>
-  </a>
-</div>
+![](https://komarev.com/ghpvc/?username=KelvinYou&style=flat)
 
-  
+
+
+## 
 ![Kelvin You's Github stats](https://github-readme-stats.vercel.app/api?username=KelvinYou&count_private=true&show_icons=true&theme=dark&hide=issues)
   
 ![Kelvin You's Github Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=KelvinYou&theme=dark&hide_border=false)
