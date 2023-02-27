@@ -1,6 +1,6 @@
-## Hi Everyone 👋 I am Kelvin You from Selangor, Malaysia.
-
-### I am a Software Engineering student from Tunku Abdul Rahman University of Management Technology (TARUMT)
+<h1 align="center">Hi 👋I am Kelvin You</h1>
+<h3 align="center">I am a Software Engineering student from Tunku Abdul Rahman University of Management Technology (TARUMT)</h3>
+<br/>
 <p align="left"><img src="https://skillicons.dev/icons?i=ts,js,flutter,python,firebase,dart,spring,postgres,git,github,java,solidity,android&perline=16" alt="Tech Stack" /> </p>
 
 - Linkedln : <a href="https://www.linkedin.com/in/kelvin-you-a29644198/" target="_blank">https://www.linkedin.com/in/kelvin-you-a29644198/</a>
