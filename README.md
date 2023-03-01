@@ -9,7 +9,7 @@
 - Instagram : <a href="https://www.instagram.com/kelvinyou0220/" target="_blank">@kelvinyou0220</a> 
 <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.15.3/css/all.css" crossorigin="anonymous">
 
-![](https://komarev.com/ghpvc/?username=KelvinYou&style=flat)
+![Kelvin You's Profile Views](https://komarev.com/ghpvc/?username=KelvinYou&style=flat)
 
 
 
