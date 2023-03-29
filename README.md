@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋I am Kelvin You</h1>
 <h3 align="center">I am a Software Engineering student from Tunku Abdul Rahman University of Management Technology (TARUMT)</h3>
+<p align="center">A person keep researching about the best practice of ReacJS, TypeScript, ExpressJS, Flutter, Spring Boot, etc.</p>
 <br/>
 <p align="center"><img src="https://skillicons.dev/icons?i=ts,js,flutter,python,firebase,dart,spring,postgres,git,github,java,solidity,android&perline=16" alt="Tech Stack" /> </p>
 
