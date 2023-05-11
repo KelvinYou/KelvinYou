@@ -13,8 +13,6 @@
 
 ![Kelvin You's Profile Views](https://komarev.com/ghpvc/?username=KelvinYou&style=flat)
 
-
-
 ## 
 ![Kelvin You's Github stats](https://github-readme-stats.vercel.app/api?username=KelvinYou&count_private=true&show_icons=true&theme=dark&hide=issues)
   
