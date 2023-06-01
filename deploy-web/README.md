@@ -6,3 +6,6 @@ https://pages.cloudflare.com/
 
 Netlify:
 https://www.netlify.com/
+
+Render:
+https://render.com/
