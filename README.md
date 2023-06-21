@@ -3,7 +3,7 @@
 <h4 align="center">Student from Tunku Abdul Rahman University of Management Technology (TARUMT)</h4>
 <p align="center">-- "Keep studying best practice for ReacJS, TypeScript, ExpressJS, Flutter, Spring Boot, etc." --</p>
 <br/>
-<p align="center"><img src="https://skillicons.dev/icons?i=react,express,nodejs,ts,js,flutter,python,firebase,dart,spring,postgres,git,github,java,solidity,androidstudio&perline=10" alt="Tech Stack" /> </p>
+<p align="center"><img src="https://skillicons.dev/icons?i=react,next,vite,express,nodejs,ts,js,flutter,python,firebase,dart,spring,postgres,git,github,java,solidity,androidstudio&perline=10" alt="Tech Stack" /> </p>
 
 - Portfolio : <a href="https://kelvinyou.vercel.app/" target="_blank">Portfolio | Kelvin You</a>
 - Linkedln : <a href="https://www.linkedin.com/in/kelvin-you-a29644198/" target="_blank">https://www.linkedin.com/in/kelvin-you-a29644198/</a>
@@ -11,11 +11,14 @@
 - Instagram : <a href="https://www.instagram.com/kelvinyou0220/" target="_blank">@kelvinyou0220</a> 
 <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.15.3/css/all.css" crossorigin="anonymous">
 
+![Code Time](http://img.shields.io/badge/Code%20Time-3%2C804%20hrs%2022%20mins-blue)
+
 ![Kelvin You's Profile Views](https://komarev.com/ghpvc/?username=KelvinYou&style=flat)
 
-## 
-![Kelvin You's Github stats](https://github-readme-stats.vercel.app/api?username=KelvinYou&count_private=true&show_icons=true&theme=dark&hide=issues)
-  
+<!-- ![Kelvin You's Github stats](https://github-readme-stats.vercel.app/api?username=KelvinYou&count_private=true&show_icons=true&theme=dark&rank_icon=percentile) -->
+
+![Kelvin You's Github stats](https://github-readme-stats.vercel.app/api?username=KelvinYou&count_private=true&show_icons=true&theme=dark)
+
 ![Kelvin You's Github Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=KelvinYou&theme=dark&hide_border=false)
 
 ![Kelvin You's Github Streak Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=KelvinYou&layout=compact&theme=dark&langs_count=10)
