@@ -11,11 +11,13 @@
 - Instagram : <a href="https://www.instagram.com/kelvinyou0220/" target="_blank">@kelvinyou0220</a> 
 <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.15.3/css/all.css" crossorigin="anonymous">
 
-![Code Time](http://img.shields.io/badge/Code%20Time-3%2C804%20hrs%2022%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-10%2C934%20hrs%2033%20mins-blue)
 
 ![Kelvin You's Profile Views](https://komarev.com/ghpvc/?username=KelvinYou&style=flat)
 
 <!-- ![Kelvin You's Github stats](https://github-readme-stats.vercel.app/api?username=KelvinYou&count_private=true&show_icons=true&theme=dark&rank_icon=percentile) -->
+
+![Kelvin You's Trophy](https://github-profile-trophy.vercel.app/?username=KelvinYou)
 
 ![Kelvin You's Github stats](https://github-readme-stats.vercel.app/api?username=KelvinYou&count_private=true&show_icons=true&theme=dark)
 
