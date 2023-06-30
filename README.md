@@ -8,7 +8,6 @@
 - Portfolio : <a href="https://kelvinyou.vercel.app/" target="_blank">Portfolio | Kelvin You</a>
 - Linkedln : <a href="https://www.linkedin.com/in/kelvin-you-a29644198/" target="_blank">https://www.linkedin.com/in/kelvin-you-a29644198/</a>
 - Email : <a href="mailto:ykekelvin0220@gmail.com" target="_blank">ykekelvin0220@gmail.com</a> 
-- Instagram : <a href="https://www.instagram.com/kelvinyou0220/" target="_blank">@kelvinyou0220</a> 
 <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.15.3/css/all.css" crossorigin="anonymous">
 
 ![Code Time](http://img.shields.io/badge/Code%20Time-10%2C934%20hrs%2033%20mins-blue)
