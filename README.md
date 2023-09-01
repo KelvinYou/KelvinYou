@@ -1,14 +1,19 @@
-<h1 align="center">Hi 👋I am Kelvin You</h1>
-<h2 align="center">Bachelor of Software Engineering</h2>
-<h4 align="center">Student from Tunku Abdul Rahman University of Management Technology (TARUMT)</h4>
-<p align="center">-- "Keep studying best practice for ReacJS, TypeScript, ExpressJS, Flutter, Spring Boot, etc." --</p>
+<h1 align="center">Hi 👋, I am Kelvin You</h1>
+
+> <samp>
+>  <h4 align='center'>
+>    😜 Focus on NextJS, ExpressJS (JS & TS), Flutter and Solidity.
+>  </h4>
+> </samp>
+
+## <img src="https://media.giphy.com/media/ZEUODEtQiUZWGg6IHR/giphy.gif" width="40px"/> Who am I?
+- Graduated with merit, Bachelor of [Software Engineering](https://en.wikipedia.org/wiki/Bachelor_of_Software_Engineering) at [TARUMT](https://www.tarc.edu.my)
+- Portfolio : [Portfolio | Kelvin You](https://kelvinyou.vercel.app/)
+- Linkedln : [Linkedin | Kelvin You](https://www.linkedin.com/in/kelvinyou2001/)
+- Email : [ykekelvin0220@gmail.com](mailto:ykekelvin0220@gmail.com)
+
 <br/>
 <p align="center"><img src="https://skillicons.dev/icons?i=react,next,vite,express,nodejs,ts,js,flutter,python,firebase,dart,spring,postgres,git,github,java,solidity,androidstudio&perline=10" alt="Tech Stack" /> </p>
-
-- Portfolio : <a href="https://kelvinyou.vercel.app/" target="_blank">Portfolio | Kelvin You</a>
-- Linkedln : <a href="https://www.linkedin.com/in/kelvin-you-a29644198/" target="_blank">https://www.linkedin.com/in/kelvin-you-a29644198/</a>
-- Email : <a href="mailto:ykekelvin0220@gmail.com" target="_blank">ykekelvin0220@gmail.com</a> 
-<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.15.3/css/all.css" crossorigin="anonymous">
 
 ![Code Time](http://img.shields.io/badge/Code%20Time-10%2C934%20hrs%2033%20mins-blue)
 
@@ -23,18 +28,3 @@
 ![Kelvin You's Github Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=KelvinYou&theme=dark&hide_border=false)
 
 ![Kelvin You's Github Streak Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=KelvinYou&layout=compact&theme=dark&langs_count=10)
-
-<!--
-**KelvinYou/KelvinYou** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
