@@ -2,7 +2,7 @@
 
 > <samp>
 >  <h4 align='center'>
->    😜 Focus on NextJS, ExpressJS (JS & TS), Flutter and Solidity.
+>    😜 Focus on NextJS (React, JS & TS), ExpressJS (JS & TS), PuppeteerJS (JS & TS), Flutter and Solidity.
 >  </h4>
 > </samp>
 
