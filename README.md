@@ -33,10 +33,11 @@
 
 ## <img src="https://media.giphy.com/media/uhWLu2lsU0rfLiwYlI/giphy.gif" width="40px" /> Stats
 
+![Github's Contributions](profile-3d-contrib/profile-night-rainbow.svg)
+
 ![Code Time](http://img.shields.io/badge/Code%20Time-10%2C934%20hrs%2033%20mins-blue)
 
 ![Kelvin You's Profile Views](https://komarev.com/ghpvc/?username=KelvinYou&style=flat)
-
 <!-- ![Kelvin You's Github stats](https://github-readme-stats.vercel.app/api?username=KelvinYou&count_private=true&show_icons=true&theme=dark&rank_icon=percentile) -->
 
 ![Kelvin You's Trophy](https://github-profile-trophy.vercel.app/?username=KelvinYou)
