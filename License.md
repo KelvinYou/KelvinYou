@@ -1,6 +1,6 @@
 MIT License
 
-Copyright (c) 2023 Kelvin You
+Copyright (c) 2025 Kelvin You
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
